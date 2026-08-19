@@ -50,7 +50,7 @@ const reducer = (
 
 // Get all Pokémon
 const API_URL =
-  "https://pokeapi.co/api/v2/pokemon?limit=1025";
+  "https://pokeapi.co/api/v2/pokemon?limit=3000";
 
 const POKEMON_PER_PAGE = 20;
 
